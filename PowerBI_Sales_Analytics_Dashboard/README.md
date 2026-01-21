@@ -27,3 +27,7 @@ Power BI dashboards.
 - Identified top-performing regions and product categories
 - Highlighted sales trends across time periods
 - Enabled quick decision-making through KPI visibility
+
+## Dashboard Preview
+![Sales Analytics Dashboard](Sales_Data.jpeg)
+
