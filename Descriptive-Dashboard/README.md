@@ -20,7 +20,7 @@ This project presents a descriptive analytics dashboard built using Power BI to 
 
 ## Dashboard Preview
 
-![Dashboard Overview](descriptive_dashboard.jpeg)
-![KPI View](descriptive_dashboard_1.jpeg)
-![Detailed Analysis](descriptive_dashboard_2.jpeg)
+![Dashboard Overview](Descriptive_Dashboard.jpeg)
+![KPI View](Descriptive_Dashboard_1.jpeg)
+![Detailed Analysis](Descriptive_Dashboard_2.jpeg)
 
