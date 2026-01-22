@@ -15,3 +15,7 @@ This project presents a descriptive analytics dashboard built using Power BI to 
 ## How to Use
 1. Download the `.pbix` file
 2. Open it in Power BI Desktop
+
+## Dashboard Preview
+
+![Descriptive Dashboard Preview](Descriptive_Dashboard.jpeg)
