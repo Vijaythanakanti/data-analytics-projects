@@ -21,7 +21,7 @@ This project focuses on analyzing Blinkit grocery sales data to generate busines
 - Low Fat products sell more than Regular items
 
 ## 📷 Dashboard Preview
-(Add dashboard screenshot here)
+![Dashboard Preview](Blinkit_Dashboard.png)
 
 ## 👤 Created By
 **Vijay Thanakanti**  
