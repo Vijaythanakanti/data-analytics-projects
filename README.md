@@ -7,7 +7,7 @@ Each project focuses on **data cleaning, analysis, visualization, and generating
 
 ## 🚀 Projects
 
-### 🔹 City-Wise Weather Trends & Insights Dashboard (Power BI)**
+### 🔹 City-Wise Weather Trends & Insights Dashboard (Power BI)
 
 **Domain:** Data Analytics / Weather Analytics
 
