@@ -17,6 +17,7 @@ Each project focuses on **data cleaning, analysis, visualization, and generating
 - Used slicers, KPI cards, line charts, donut charts, and bar charts for comparative analysis and insights
 
 🧰 **Tools**: Power BI, CSV, Data Modeling, DAX
+
 📁 **Folder:** PowerBI_City_Wise_Weather_Dashboard
 
 ---
