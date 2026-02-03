@@ -7,21 +7,19 @@ Each project focuses on **data cleaning, analysis, visualization, and generating
 
 ## 🚀 Projects
 
-🔹 City-Wise Weather Trends & Insights Dashboard (Power BI)
+###🔹 City-Wise Weather Trends & Insights Dashboard (Power BI)**
 
-Domain: Data Analytics / Weather Analytics
+**Domain:** Data Analytics / Weather Analytics
 
-Built an interactive Power BI dashboard to analyze city-wise weather trends across major Indian cities
+- Built an interactive Power BI dashboard to analyze city-wise weather trends across major Indian cities
+- Tracked key KPIs such as average temperature, humidity, wind speed, and overall comfort level
+- Analyzed temperature trends over time and frequency of weather conditions
+- Used slicers, KPI cards, line charts, donut charts, and bar charts for comparative analysis and insights
 
-Tracked key KPIs such as average temperature, humidity, wind speed, and overall comfort level
+🧰 **Tools**: Power BI, CSV, Data Modeling, DAX
+📁 **Folder:** PowerBI_City_Wise_Weather_Dashboard
 
-Analyzed temperature trends over time and frequency of weather conditions
-
-Used slicers, KPI cards, line charts, donut charts, and bar charts for comparative analysis and insights
-
-🧰 Tools: Power BI, CSV, Data Modeling, DAX
-📁 Folder: PowerBI_City_Wise_Weather_Dashboard
-
+---
 
 ### 🔹 Blinkit – Grocery Sales Performance Dashboard (Power BI)
 **Domain:** Business / Sales Analytics  
