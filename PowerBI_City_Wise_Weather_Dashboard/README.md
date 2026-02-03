@@ -17,5 +17,5 @@ This Power BI project analyzes city-wise weather data to uncover trends in tempe
 - KPI cards for temperature, humidity, and wind speed
 
 ## 🖼️ Dashboard Preview
-![Weather Dashboard](images/city_weather.png)
+![Weather Dashboard](city_weather.png)
 
